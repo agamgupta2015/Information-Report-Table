@@ -1,0 +1,36 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color:lightgoldenrodyellow
+}
+table{
+  box-sizing:border-box;
+  border: 2px solid red;
+  padding:50px;
+}
+tr{
+  color:red;
+  background-color:aqua;
+}
+th,td{
+  border:1px solid black;
+}
+form{
+  box-sizing:border-box;
+  border:2px solid red;
+  padding:50px;
+}
+input[type="submit"]{
+  width:70px;
+  height:30px;
+  margin-left:90px;
+}
+input[type="submit"]:hover{
+  background-color:lightblue;
+}
+
+input{
+  width:150px;
+  height:20px;
+  margin:10px;
+}
